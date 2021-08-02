@@ -9,4 +9,8 @@ export default {
       },
     },
   },
+  server: {
+    port: 1111,
+    host: '0.0.0.0',
+  },
 };
