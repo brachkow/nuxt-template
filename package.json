@@ -1,3 +1,10 @@
 {
-  "name": "nuxt-template"
+  "name": "nuxt-template",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build; nuxt generate;"
+  },
+  "dependencies": {
+    "nuxt": "^2.15.7"
+  }
 }
